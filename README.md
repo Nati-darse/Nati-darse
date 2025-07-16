@@ -1,178 +1,69 @@
-Hi there, I'm Natnael Darse 👋
-I'm a passionate Software Engineer with expertise in Full-Stack Development, DevOps, and Cloud Technologies. I love building scalable applications, automating workflows, and contributing to open-source projects.
+<h1 align="center">Hi there 👋, I'm Natnael Darsema</h1>
+<h3 align="center">A passionate full-stack web developer exploring AI-powered web solutions</h3>
 
-🚀 Technical Skills
-💻 Programming & Markup Languages
-Python (Django, Flask, FastAPI)
+<p align="center">
+  <a href="https://natiportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:natnaeldarsema@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/nathnael-darsema/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-JavaScript/TypeScript (React, Node.js, Express)
+---
 
-Java (Spring Boot)
+### 🚀 About Me
 
-PHP (Laravel)
+- 👨‍💻 I'm a Computer Science graduate and self-driven full-stack developer.
+- 💡 Currently integrating **AI into web applications** for smarter user experiences.
+- 📚 Learning **Go (Golang)** to expand my backend skills.
+- 🌐 I focus on performance, scalability, and creating clean, maintainable codebases.
+- 🛠️ I'm actively working on [Event Easy Platform](https://github.com/Nati-darse/Event-Easy-Platform) and other full-stack projects.
 
-HTML/CSS (Tailwind, Bootstrap)
+---
 
-SQL & NoSQL (PostgreSQL, MySQL, MongoDB)
+### 🛠️ Tech Stack
 
-☁️ Cloud & DevOps
-AWS (EC2, S3, Lambda, RDS)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
 
-Docker & Kubernetes
+---
 
-CI/CD Pipelines (GitHub Actions, Jenkins)
+### 📈 GitHub Stats
 
-Infrastructure as Code (IaC) (Terraform)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=radical" height="180" />
+</p>
 
-Linux/Shell Scripting
+---
 
-🛠️ Tools & Frameworks
-Git & GitHub
+### ⚡ Fun Fact
 
-Postman
+> “The best way to predict the future is to invent it.” – Alan Kay  
+> *(Right now, I’m building toward that future with code and AI)*
 
-VS Code & IntelliJ IDEA
+---
 
-Jira & Agile Methodologies
+### 📫 Contact Me
 
-🔥 Featured Projects
-1. E-Commerce Backend (Django)
-A scalable e-commerce backend built with Django REST Framework.
+- 📧 **Email**: [natnaeldarsema@gmail.com](mailto:natnaeldarsema@gmail.com)  
+- 🌐 **Portfolio**: [natiportfolio.vercel.app](https://natiportfolio.vercel.app)  
+- 💼 **LinkedIn**: [linkedin.com/in/nathnael-darsema](https://www.linkedin.com/in/nathnael-darsema/)
 
-Features: JWT Authentication, Product Management, Order Processing.
+---
 
-Tech Stack: Python, Django, PostgreSQL, Docker.
-
-2. Task Management App (MERN Stack)
-A full-stack task management application with real-time updates.
-
-Tech Stack: MongoDB, Express.js, React, Node.js.
-
-3. DevOps CI/CD Pipeline
-Automated CI/CD pipeline using GitHub Actions, Docker, and AWS.
-
-Includes unit testing, containerization, and deployment.
-
-4. Cloud Resume Challenge (AWS)
-A serverless resume website deployed on AWS (S3, CloudFront, Lambda, DynamoDB).
-
-Demonstrates Infrastructure as Code (Terraform).
-
-🌱 Currently Learning
-Advanced Kubernetes (Helm, Kustomize)
-
-GraphQL & Microservices Architecture
-
-AWS Certified Solutions Architect
-
-📫 Let's Connect!
-LinkedIn: Natnael Darse
-
-Email: your-email@example.com
-
-Portfolio: [Coming Soon!]
-
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=dark
-
-⭐ Feel free to explore my repositories and contribute! ⭐
-
-🔨 How to Reach Me for Collaborations:
-Open to freelance projects (Web Apps, DevOps, Cloud Solutions).
-
-Looking for open-source contributions.
-
-Let’s discuss tech & innovation!
-
-This README.md is clean, professional, and highlights your expertise while making it easy for recruiters and collaborators to understand your skills.
-
-Would you like any modifications (e.g., adding badges, more personalization)? 😊
-
-https://github.com/yeabnoah 
-
-look at this github and based o this prepare a readme for my git hub and remove python , and Java
-Here’s a clean, professional README.md for your GitHub profile, tailored to your skills (excluding Python and Java) and inspired by the structure of yeabnoah's GitHub:
-
-Hi, I'm Natnael Darse 👋
-Full-Stack Developer | DevOps & Cloud Enthusiast
-I build scalable web applications and automate infrastructure with modern tools. Passionate about JavaScript/TypeScript, DevOps, and Cloud Technologies.
-
-🛠️ Tech Stack
-Frontend & Backend
-JavaScript/TypeScript (React, Next.js, Node.js, Express)
-
-PHP (Laravel)
-
-HTML/CSS (Tailwind, SCSS, Bootstrap)
-
-Databases: PostgreSQL, MySQL, MongoDB
-
-DevOps & Cloud
-AWS (EC2, S3, Lambda, CloudFront)
-
-Docker & Kubernetes
-
-CI/CD (GitHub Actions, Jenkins)
-
-Infrastructure as Code (IaC) (Terraform)
-
-Linux & Bash Scripting
-
-Tools
-Git & GitHub
-
-VS Code
-
-Postman
-
-Jira & Agile
-
-🚀 Featured Projects
-1. E-Commerce Backend (Node.js)
-✔ RESTful API for an online store
-✔ JWT Authentication, Stripe Payments
-✔ Tech: Node.js, Express, MongoDB
-
-2. Task Manager (MERN Stack)
-✔ Full-stack task management app
-✔ Real-time updates with Socket.io
-✔ Tech: React, Node.js, MongoDB
-
-3. DevOps CI/CD Pipeline
-✔ Automated testing & deployment
-✔ Dockerized + AWS ECS deployment
-✔ Tech: GitHub Actions, Terraform
-
-4. Cloud Resume (AWS)
-✔ Serverless resume hosted on AWS
-✔ Visitor counter via DynamoDB + Lambda
-✔ Tech: S3, CloudFront, Terraform
-
-🌱 Currently Learning
-Advanced Kubernetes (Helm, ArgoCD)
-
-AWS Certified DevOps Engineer
-
-GraphQL & Microservices
-
-📬 Let’s Connect!
-LinkedIn: Natnael Darse
-
-Email: your-email@example.com
-
-Portfolio: [Coming Soon]
-
-📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=dark&hide=python,java
-
-💡 Open for Collaborations!
-Freelance projects (Web Apps, Cloud Solutions)
-
-Open-source contributions
-
-Tech discussions & networking
-
+_Thanks for stopping by! Let's innovate something amazing together 🚀_
