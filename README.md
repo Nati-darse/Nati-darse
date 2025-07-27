@@ -21,7 +21,7 @@
 - 👨‍💻 Computer Science graduate and full-stack developer
 - 💡 Building AI-integrated web applications
 - 📚 Currently learning Go (Golang)
-- 🏗️ **Total Commits:** <!-- COMMIT_COUNT_PLACEHOLDER -->
+- 🏗️ **Total Commits:** 1
 - 🔭 Working on [Event Easy Platform](https://github.com/Nati-darse/Eventeasy_F.git)
 
 ---
