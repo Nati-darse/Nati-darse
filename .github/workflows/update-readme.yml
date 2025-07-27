@@ -2,30 +2,32 @@ name: Update README
 
 on:
   push:
-    branches:
-      - main  # Change this if your default branch is different
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *' # Daily update at midnight UTC
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
 
-      - name: Count commits
-        id: count_commits
-        run: echo "commits_count=$(git rev-list --count HEAD)" >> $GITHUB_ENV
+      - name: Get commit count
+        id: count-commits
+        run: |
+          echo "count=$(git rev-list --count HEAD)" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          sed -i "s/{commits_count}/$commits_count/g" README.md
-
-      - name: Commit changes
-        run: |
+          sed -i "s/<!-- COMMIT_COUNT_PLACEHOLDER -->/${{ steps.count-commits.outputs.count }}/g" README.md
           git config user.name "github-actions"
-          git config user.email "action@github.com"
+          git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Update README with commit count" || echo "No changes to commit"
-
-      - name: Push changes
-        run: git push https://x-access-token:${{ secrets.PAT }}@github.com/Nati-darse/Nati-darse.git
+          git commit -m "📈 Auto-update commit count: ${{ steps.count-commits.outputs.count }}"
+          git push
