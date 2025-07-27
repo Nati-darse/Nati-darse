@@ -45,7 +45,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical" height="180" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=radical" height="180" />
 </p>
 
