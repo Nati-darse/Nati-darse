@@ -22,7 +22,7 @@
 - 📚 Learning **Go (Golang)** to expand my backend skills.
 - 🌐 I focus on performance, scalability, and creating clean, maintainable codebases.
 - 🛠️ I'm actively working on [Event Easy Platform](https://github.com/Nati-darse/Eventeasy_F.git) and other full-stack projects.
-- 🏗️ Current Number of Commits: **{commits_count}** (automatically updated)
+- - 🏗️ Current Number of Commits: **{commits_count}** (automatically updated)
 
 ---
 
