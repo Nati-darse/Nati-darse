@@ -22,7 +22,7 @@
 - 💡 Building AI-integrated web applications
 - 📚 Currently learning Go (Golang)
 - 🏗️ **Total Commits:** 1
-- 🔭 Working on [Event Easy Platform](https://github.com/Nati-darse/Eventeasy_F.git)
+- 🔭 Working on personal and client projects
 
 ---
 
