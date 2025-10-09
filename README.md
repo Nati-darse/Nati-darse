@@ -22,7 +22,8 @@
 - 💡 Building AI-integrated web applications
 - 📚 Currently learning Go (Golang)
 - 🏗️ **Total Commits:** 1
-- 🔭 Working on personal and client projects
+- 🔭 currently Working on **Shario**
+
 
 ---
 
