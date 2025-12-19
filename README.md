@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   </div>
   
   <div>
@@ -46,6 +47,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-4B8BBE?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB3?style=flat&logo=php&&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-D72B24?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   </div>
   
   <div>
