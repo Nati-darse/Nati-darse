@@ -19,65 +19,80 @@
 ### 🚀 About Me
 
 - 👨‍💻 Computer Science graduate and full-stack developer
-- 💡 Building AI-integrated web applications
+- 💡 Building AI-integrated web applications  
 - 📚 Currently learning Go (Golang)
-- 🏗️ **Total Commits:** 1
-- 🔭 currently Working on **Shario**
-
+- 🔭 Currently working on **Shario** and **Hospital Card Management System**
+- 🏗️ Experienced in building scalable web applications from concept to deployment
 
 ---
 
-### 🛠️ Tech Stacks Used
+### 🏗️ Current Projects
 
-<p align="center">
-  <div>
-  <h4>Frontend Technologies</h4>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+#### **Shario**
+- **Description:** Full-stack web application with real-time features
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
+- **Status:** In development
+
+#### **Hospital Card Management System**
+- **Description:** Digital healthcare management platform
+- **Tech Stack:** Angular, Spring Boot, PostgreSQL, Tailwind CSS
+- **Status:** Backend API development completed, frontend in progress
+
+---
+
+### 🛠️ Technical Expertise
+
+<div>
+  <h4>Frontend Development</h4>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  </div>
-  
-  <div>
-  <h4>Backend Technologies</h4>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+</div>
+
+<div>
+  <h4>Backend Development</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-4B8BBE?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB3?style=flat&logo=php&&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-D72B24?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
-  </div>
-  
-  <div>
-  <h4>Database Technologies</h4>
+  <img src="https://img.shields.io/badge/PHP-777BB3?style=flat&logo=php&&logoColor=white" />
+</div>
+
+<div>
+  <h4>Databases & Tools</h4>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  </div>
-  
-  <div>
-   <h4>Authentication</h4> 
-      <img src="https://img.shields.io/badge/Better%20Auth-1F8EF1?style=flat&logo=auth0&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-token&logoColor=white" />
-  </div>
-  <div>
-    <h4>Payment Integration</h4>
-      <img src="https://img.shields.io/badge/Chapa-FF7F50?style=flat&logo=appveyor&logoColor=white" />
-  </div>
-  <div>
-    <h4>Deployment</h4>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-4D3D29?style=flat&logo=render&logoColor=white" />
-  </div>
-</p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</div>
+
+<div>
+  <h4>Authentication & APIs</h4>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-token&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F61?style=flat&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better%20Auth-1F8EF1?style=flat&logo=auth0&logoColor=white" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🎯 Development Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nati-darse&show_icons=true&theme=radical&include_all_commits=true" height="180" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=radical" height="180" />
-</p>
+- **Clean Code Advocate:** Writing maintainable, readable, and efficient code
+- **User-Centric Design:** Creating intuitive and accessible user experiences
+- **Agile Methodology:** Iterative development with continuous feedback
+- **Performance Focus:** Optimizing for speed and scalability
+- **Lifelong Learner:** Constantly updating skills with emerging technologies
+
+---
+
+### 📫 Let's Connect
+
+- **Portfolio:** [natiportfolio.vercel.app](https://natiportfolio.vercel.app/)
+- **Email:** natnaeldarsema@gmail.com
+- **LinkedIn:** [nathnael-darsema](https://www.linkedin.com/in/nathnael-darsema/)
+- **GitHub:** [Nati-darse](https://github.com/Nati-darse)
+
+*Open to interesting projects, collaborations, and tech discussions!*
