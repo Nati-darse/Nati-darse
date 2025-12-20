@@ -26,15 +26,21 @@
 
 ---
 
+### 📊 Language Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nati-darse&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
 ### 🏗️ Current Projects
 
 #### **Shario**
-- **Description:** Full-stack web application with real-time features
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
 - **Status:** In development
 
 #### **Hospital Card Management System**
-- **Description:** Digital healthcare management platform
 - **Tech Stack:** Angular, Spring Boot, PostgreSQL, Tailwind CSS
 - **Status:** Backend API development completed, frontend in progress
 
