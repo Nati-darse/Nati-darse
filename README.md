@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Natnael Darsema</h1>
 
-<h3 align="center">A passionate full-stack web developer exploring AI-powered web solutions</h3>
+<h3 align="center"> Full-Stack Developer & Software Quality Engineer building performance-first web applications with MERN stack and Next.js, focused on scalable architecture, reliable systems, and exceptional user experiences.</h3>
 
 <p align="center">
-  <a href="https://natiportfolio.vercel.app/" target="_blank">
+  <a href="https://natnaeldarsema.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:natnaeldarsema@gmail.com">
