@@ -16,6 +16,8 @@
 
 ---
 
+### By the way , time really matters !!
+
 ### 🚀 About Me
 
 - 👨‍💻 Computer Science graduate and full-stack developer
@@ -85,7 +87,8 @@
 
 ### 🎯 Development Philosophy
 
-- **Clean Code Advocate:** Writing maintainable, readable, and efficient code
+- **Punctuality on time deliverence**
+-  **Clean Code Advocate:** Writing maintainable, readable, and efficient code
 - **User-Centric Design:** Creating intuitive and accessible user experiences
 - **Agile Methodology:** Iterative development with continuous feedback
 - **Performance Focus:** Optimizing for speed and scalability
