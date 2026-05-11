@@ -20,8 +20,7 @@
 
 - 👨‍💻 Computer Science graduate and full-stack developer
 - 💡 Building AI-integrated web applications  
-- 📚 Currently learning Go (Golang)
-- 🔭 Currently working on **Shario** and **Hospital Card Management System**
+- 📚 Currently learning QA (Quality Asurance which helps me for quality works )
 - 🏗️ Experienced in building scalable web applications from concept to deployment
 
 ---
