@@ -35,7 +35,7 @@
 
 ---
 
-### 🏗️ Current Projects
+### 🏗️ Current Projects 
 
 #### **Shario**
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
