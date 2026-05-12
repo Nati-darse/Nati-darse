@@ -35,11 +35,8 @@
 
 ---
 
-### 🏗️ Current Projects 
+### 🏗️ recentt Projects 
 
-#### **Shario**
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js
-- **Status:** In development
 
 #### **Hospital Card Management System**
 - **Tech Stack:** Angular, Spring Boot, PostgreSQL, Tailwind CSS
